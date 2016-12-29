@@ -1,0 +1,364 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		18BB00271E14A99400E00A47 /* 12_seiza.png in Resources */ = {isa = PBXBuildFile; fileRef = 18BB001A1E14A99400E00A47 /* 12_seiza.png */; };
+		18BB00281E14A99400E00A47 /* 11_seiza.png in Resources */ = {isa = PBXBuildFile; fileRef = 18BB001B1E14A99400E00A47 /* 11_seiza.png */; };
+		18BB00291E14A99400E00A47 /* 10_seiza.png in Resources */ = {isa = PBXBuildFile; fileRef = 18BB001C1E14A99400E00A47 /* 10_seiza.png */; };
+		18BB002A1E14A99400E00A47 /* 09_seiza.png in Resources */ = {isa = PBXBuildFile; fileRef = 18BB001D1E14A99400E00A47 /* 09_seiza.png */; };
+		18BB002B1E14A99400E00A47 /* 08_seiza.png in Resources */ = {isa = PBXBuildFile; fileRef = 18BB001E1E14A99400E00A47 /* 08_seiza.png */; };
+		18BB002C1E14A99400E00A47 /* 07_seiza.png in Resources */ = {isa = PBXBuildFile; fileRef = 18BB001F1E14A99400E00A47 /* 07_seiza.png */; };
+		18BB002D1E14A99400E00A47 /* 06_seiza.png in Resources */ = {isa = PBXBuildFile; fileRef = 18BB00201E14A99400E00A47 /* 06_seiza.png */; };
+		18BB002E1E14A99400E00A47 /* 05_seiza.png in Resources */ = {isa = PBXBuildFile; fileRef = 18BB00211E14A99400E00A47 /* 05_seiza.png */; };
+		18BB002F1E14A99400E00A47 /* 04_seiza.png in Resources */ = {isa = PBXBuildFile; fileRef = 18BB00221E14A99400E00A47 /* 04_seiza.png */; };
+		18BB00301E14A99400E00A47 /* 02_seiza.png in Resources */ = {isa = PBXBuildFile; fileRef = 18BB00231E14A99400E00A47 /* 02_seiza.png */; };
+		18BB00311E14A99400E00A47 /* 03_seiza.png in Resources */ = {isa = PBXBuildFile; fileRef = 18BB00241E14A99400E00A47 /* 03_seiza.png */; };
+		18BB00321E14A99400E00A47 /* 01_seiza.png in Resources */ = {isa = PBXBuildFile; fileRef = 18BB00251E14A99400E00A47 /* 01_seiza.png */; };
+		18BB00331E14A99400E00A47 /* background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 18BB00261E14A99400E00A47 /* background.jpg */; };
+		18BBFFEA1E14910B00E00A47 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18BBFFE91E14910B00E00A47 /* AppDelegate.swift */; };
+		18BBFFEC1E14910B00E00A47 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18BBFFEB1E14910B00E00A47 /* ViewController.swift */; };
+		18BBFFEF1E14910B00E00A47 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18BBFFED1E14910B00E00A47 /* Main.storyboard */; };
+		18BBFFF11E14910B00E00A47 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18BBFFF01E14910B00E00A47 /* Assets.xcassets */; };
+		18BBFFF41E14910B00E00A47 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18BBFFF21E14910B00E00A47 /* LaunchScreen.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		18BB001A1E14A99400E00A47 /* 12_seiza.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 12_seiza.png; sourceTree = "<group>"; };
+		18BB001B1E14A99400E00A47 /* 11_seiza.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 11_seiza.png; sourceTree = "<group>"; };
+		18BB001C1E14A99400E00A47 /* 10_seiza.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 10_seiza.png; sourceTree = "<group>"; };
+		18BB001D1E14A99400E00A47 /* 09_seiza.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 09_seiza.png; sourceTree = "<group>"; };
+		18BB001E1E14A99400E00A47 /* 08_seiza.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 08_seiza.png; sourceTree = "<group>"; };
+		18BB001F1E14A99400E00A47 /* 07_seiza.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 07_seiza.png; sourceTree = "<group>"; };
+		18BB00201E14A99400E00A47 /* 06_seiza.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 06_seiza.png; sourceTree = "<group>"; };
+		18BB00211E14A99400E00A47 /* 05_seiza.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 05_seiza.png; sourceTree = "<group>"; };
+		18BB00221E14A99400E00A47 /* 04_seiza.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 04_seiza.png; sourceTree = "<group>"; };
+		18BB00231E14A99400E00A47 /* 02_seiza.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 02_seiza.png; sourceTree = "<group>"; };
+		18BB00241E14A99400E00A47 /* 03_seiza.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 03_seiza.png; sourceTree = "<group>"; };
+		18BB00251E14A99400E00A47 /* 01_seiza.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 01_seiza.png; sourceTree = "<group>"; };
+		18BB00261E14A99400E00A47 /* background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = background.jpg; sourceTree = "<group>"; };
+		18BBFFE61E14910B00E00A47 /* Horoscope.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Horoscope.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		18BBFFE91E14910B00E00A47 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		18BBFFEB1E14910B00E00A47 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		18BBFFEE1E14910B00E00A47 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		18BBFFF01E14910B00E00A47 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		18BBFFF31E14910B00E00A47 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		18BBFFF51E14910B00E00A47 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		18BBFFE31E14910A00E00A47 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		18BBFFDD1E14910A00E00A47 = {
+			isa = PBXGroup;
+			children = (
+				18BBFFE81E14910B00E00A47 /* Horoscope */,
+				18BBFFE71E14910B00E00A47 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		18BBFFE71E14910B00E00A47 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				18BBFFE61E14910B00E00A47 /* Horoscope.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		18BBFFE81E14910B00E00A47 /* Horoscope */ = {
+			isa = PBXGroup;
+			children = (
+				18BBFFFB1E1491D600E00A47 /* image */,
+				18BBFFE91E14910B00E00A47 /* AppDelegate.swift */,
+				18BBFFEB1E14910B00E00A47 /* ViewController.swift */,
+				18BBFFED1E14910B00E00A47 /* Main.storyboard */,
+				18BBFFF01E14910B00E00A47 /* Assets.xcassets */,
+				18BBFFF21E14910B00E00A47 /* LaunchScreen.storyboard */,
+				18BBFFF51E14910B00E00A47 /* Info.plist */,
+			);
+			path = Horoscope;
+			sourceTree = "<group>";
+		};
+		18BBFFFB1E1491D600E00A47 /* image */ = {
+			isa = PBXGroup;
+			children = (
+				18BB00251E14A99400E00A47 /* 01_seiza.png */,
+				18BB00231E14A99400E00A47 /* 02_seiza.png */,
+				18BB00241E14A99400E00A47 /* 03_seiza.png */,
+				18BB00221E14A99400E00A47 /* 04_seiza.png */,
+				18BB00211E14A99400E00A47 /* 05_seiza.png */,
+				18BB00201E14A99400E00A47 /* 06_seiza.png */,
+				18BB001F1E14A99400E00A47 /* 07_seiza.png */,
+				18BB001E1E14A99400E00A47 /* 08_seiza.png */,
+				18BB001D1E14A99400E00A47 /* 09_seiza.png */,
+				18BB001C1E14A99400E00A47 /* 10_seiza.png */,
+				18BB001B1E14A99400E00A47 /* 11_seiza.png */,
+				18BB001A1E14A99400E00A47 /* 12_seiza.png */,
+				18BB00261E14A99400E00A47 /* background.jpg */,
+			);
+			name = image;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		18BBFFE51E14910A00E00A47 /* Horoscope */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 18BBFFF81E14910B00E00A47 /* Build configuration list for PBXNativeTarget "Horoscope" */;
+			buildPhases = (
+				18BBFFE21E14910A00E00A47 /* Sources */,
+				18BBFFE31E14910A00E00A47 /* Frameworks */,
+				18BBFFE41E14910A00E00A47 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Horoscope;
+			productName = Horoscope;
+			productReference = 18BBFFE61E14910B00E00A47 /* Horoscope.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		18BBFFDE1E14910A00E00A47 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0820;
+				LastUpgradeCheck = 0820;
+				ORGANIZATIONNAME = "松井　里衣";
+				TargetAttributes = {
+					18BBFFE51E14910A00E00A47 = {
+						CreatedOnToolsVersion = 8.2;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 18BBFFE11E14910A00E00A47 /* Build configuration list for PBXProject "Horoscope" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 18BBFFDD1E14910A00E00A47;
+			productRefGroup = 18BBFFE71E14910B00E00A47 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				18BBFFE51E14910A00E00A47 /* Horoscope */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		18BBFFE41E14910A00E00A47 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				18BB00281E14A99400E00A47 /* 11_seiza.png in Resources */,
+				18BB002E1E14A99400E00A47 /* 05_seiza.png in Resources */,
+				18BBFFF41E14910B00E00A47 /* LaunchScreen.storyboard in Resources */,
+				18BB00311E14A99400E00A47 /* 03_seiza.png in Resources */,
+				18BB002C1E14A99400E00A47 /* 07_seiza.png in Resources */,
+				18BB002B1E14A99400E00A47 /* 08_seiza.png in Resources */,
+				18BB00321E14A99400E00A47 /* 01_seiza.png in Resources */,
+				18BB00271E14A99400E00A47 /* 12_seiza.png in Resources */,
+				18BBFFF11E14910B00E00A47 /* Assets.xcassets in Resources */,
+				18BBFFEF1E14910B00E00A47 /* Main.storyboard in Resources */,
+				18BB002A1E14A99400E00A47 /* 09_seiza.png in Resources */,
+				18BB002D1E14A99400E00A47 /* 06_seiza.png in Resources */,
+				18BB002F1E14A99400E00A47 /* 04_seiza.png in Resources */,
+				18BB00331E14A99400E00A47 /* background.jpg in Resources */,
+				18BB00291E14A99400E00A47 /* 10_seiza.png in Resources */,
+				18BB00301E14A99400E00A47 /* 02_seiza.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		18BBFFE21E14910A00E00A47 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				18BBFFEC1E14910B00E00A47 /* ViewController.swift in Sources */,
+				18BBFFEA1E14910B00E00A47 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		18BBFFED1E14910B00E00A47 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				18BBFFEE1E14910B00E00A47 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		18BBFFF21E14910B00E00A47 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				18BBFFF31E14910B00E00A47 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		18BBFFF61E14910B00E00A47 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		18BBFFF71E14910B00E00A47 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		18BBFFF91E14910B00E00A47 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = Horoscope/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = jp.matsui.Horoscope;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		18BBFFFA1E14910B00E00A47 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = Horoscope/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = jp.matsui.Horoscope;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		18BBFFE11E14910A00E00A47 /* Build configuration list for PBXProject "Horoscope" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				18BBFFF61E14910B00E00A47 /* Debug */,
+				18BBFFF71E14910B00E00A47 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		18BBFFF81E14910B00E00A47 /* Build configuration list for PBXNativeTarget "Horoscope" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				18BBFFF91E14910B00E00A47 /* Debug */,
+				18BBFFFA1E14910B00E00A47 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 18BBFFDE1E14910A00E00A47 /* Project object */;
+}
